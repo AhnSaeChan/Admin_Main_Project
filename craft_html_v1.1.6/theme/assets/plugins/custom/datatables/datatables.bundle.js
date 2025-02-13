@@ -10346,7 +10346,7 @@
 		/**
 		 * Enable or disable pagination.
 		 */
-		"bPaginate": true,
+		"bPaginate": false,
 	
 	
 		/**
